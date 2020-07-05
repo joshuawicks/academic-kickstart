@@ -19,12 +19,13 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include CO2 conversion and the advancement of clean energy materials and systems.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Electrochemistry
+- Catalysis
+- CO<sub>2</sub> Conversion
+- Clean energy materials and systems
 
 education:
   courses:
@@ -46,18 +47,19 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/JoshuaAWicks
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=tE3TeD8AAAAJ&hl=en&oi=ao
-- icon: github
-  icon_pack: fab
-  link: https://github.com/joshuawicks
-- icon: orcid
-  icon_pack: ai
-  link: https://orcid.org/0000-0001-7819-1167
 - icon: linkedin-in
   icon_pack: fab
   link: https://www.linkedin.com/in/joshuawicks/
+- icon: github
+  icon_pack: fab
+  link: https://github.com/joshuawicks
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=tE3TeD8AAAAJ&hl=en&oi=ao
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-7819-1167
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
