@@ -4,7 +4,7 @@ title: Joshua Wicks
 
 # Username (this should match the folder name)
 authors:
-- Josh
+- Joshua Wicks
 
 # Is this the primary user of the site?
 superuser: true
