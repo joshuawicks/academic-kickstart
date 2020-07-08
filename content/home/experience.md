@@ -17,10 +17,20 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Electrochemical Engineer"
+  company = "Cert Systems Inc."
+  company_url = "https://co2cert.com"
+  location = ""
+  date_start = "2019-01-01"
+  date_end = ""
+  description = """"""
+
 [[experience]]
   title = "Process Engineering Intern"
   company = "Sila Nanotechnologies"
-  company_url = ""
+  company_url = "https://silanano.com"
   location = "Alameda, California"
   date_start = "2017-01-01"
   date_end = "2017-08-31"
