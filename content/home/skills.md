@@ -15,9 +15,9 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "python"
-  icon_pack = "fab"
-  name = "Python"
+  icon = "tasks"
+  icon_pack = "fas"
+  name = "Project Management"
   description = ""
   
 [[feature]]
@@ -32,6 +32,24 @@ subtitle = ""
   name = "Interdisciplinary Research"
   description = ""
 
+[[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  description = ""
+
+[[feature]]
+  icon = "microscope"
+  icon_pack = "fas"
+  name = "Advanced Materials Characterization"
+  description = ""
+
+[[feature]]
+  icon = "laptop-code"
+  icon_pack = "fas"
+  name = "Multi-Scale Modelling"
+  description = ""  
+  
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"
